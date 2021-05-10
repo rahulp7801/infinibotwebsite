@@ -927,6 +927,12 @@ b, strong {
     padding-left: 0;
   }
 }
+
+.lastUpdated {
+  font-weight: lighter;
+  color: #df49a6;
+}
+
 @media (max-width: 767.98px) {
   .content_16 .text-adaptive {
     margin-top: 5px;
