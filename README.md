@@ -38,7 +38,7 @@ More often than not, this is out of InfiniBot's control. This can mean one of tw
 2. Your last.fm account has somehow been disconnected from your Spotify account. Try going to [https://www.last.fm/settings/applications](https://www.last.fm/settings/applications), disconnect "Spotify Scrobbling", wait for a few minutes, and then reconnect.
 
 {% hint style="info" %}
-InfiniBot is NOT afflilated with Last.fm or Spotify, so if you have any questions concerning scrobbling, please contact the former by visiting [https://www.last.fm/about/contact](https://www.last.fm/about/contact)
+InfiniBot is NOT affiliated with Last.fm or Spotify, so if you have any questions concerning scrobbling, please contact the former by visiting [https://www.last.fm/about/contact](https://www.last.fm/about/contact)
 {% endhint %}
 
 ## Setting up the bot
