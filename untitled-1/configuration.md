@@ -6,7 +6,7 @@ description: Configure InfiniBot to meet your server's specific needs!
 
 ## COMMANDS
 
-{% hint style="info" %}
+{% hint style="warning" %}
 All of these commands can **ONLY** be run by a server moderator!
 {% endhint %}
 
@@ -214,7 +214,7 @@ This command tells the bot to create a mute role and update permissions for the 
 
 InfiniBot features a customizable prefix, so you can make sure that it does not interfere with other bots.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If you wish to have a word as your prefix, you must surround it in quotes and a space due to a Discord limitation.
 
 %changeprefix "yo "

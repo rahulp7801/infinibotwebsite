@@ -37,7 +37,7 @@ More often than not, this is out of InfiniBot's control. This can mean one of tw
 1. You aren't listening to anything at the moment.
 2. Your last.fm account has somehow been disconnected from your Spotify account. Try going to [https://www.last.fm/settings/applications](https://www.last.fm/settings/applications), disconnect "Spotify Scrobbling", wait for a few minutes, and then reconnect.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 InfiniBot is NOT affiliated with Last.fm or Spotify, so if you have any questions concerning scrobbling, please contact the former by visiting [https://www.last.fm/about/contact](https://www.last.fm/about/contact)
 {% endhint %}
 
@@ -66,7 +66,7 @@ After this one-time, around 5 minute procedure, you can leave your server in the
 %serverinfo
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Getting any errors during set up or is the bot unresponsive? Make sure the bot has the following permissions: 
 
 **Embed Links, Attach Files, Read Messages, Send Messages, Manage Channels, and Manage Roles.**
@@ -103,7 +103,7 @@ InfiniBot keeps track of all of the events in your server so you don't miss a th
 
 This both toggles logging on and asks you for a channel you want the logs to be redirected to.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If the bot is unresponsive \(worst-case scenario\), give the bot administrator permissions to see if that was the reason it was blocking.
 {% endhint %}
 
@@ -117,7 +117,7 @@ InfiniBot comes built-in with an advanced ticketing system. By default, all logs
 
 The way the ticketing system works for InfiniBot is the bot sends a message, and adds a reaction, that if the users click on it, they will open a ticket. So, the bot will initially prompt you to specify where this message should be sent. After that, it will ask you if you want it to ping a role when a ticket is created. After these two steps, the bot will send the message and your ticketing system is all set up!
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If an error arises, this most likely means the bot does not have adequate permissions to create channels and/or add reactions to messages. 
 {% endhint %}
 
